@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<kolory>
+
+    <myColor name="red">
+        <bright>
+            <r>231</r>
+            <g>76</g>
+            <b>60</b>
+        </bright>
+        <dark>
+            <r>192</r>
+            <g>57</g>
+            <b>43</b>
+        </dark>
+    </myColor>
+
+    <myColor name="teal">
+        <bright>
+            <r>26</r>
+            <g>188</g>
+            <b>156</b>
+        </bright>
+        <dark>
+            <r>22</r>
+            <g>160</g>
+            <b>133</b>
+        </dark>
+    </myColor>
+
+    <myColor name="orange">
+        <bright>
+            <r>230</r>
+            <g>126</g>
+            <b>34</b>
+        </bright>
+        <dark>
+            <r>211</r>
+            <g>84</g>
+            <b>0</b>
+        </dark>
+    </myColor>
+
+    <myColor name="green">
+        <bright>
+            <r>46</r>
+            <g>204</g>
+            <b>113</b>
+        </bright>
+        <dark>
+            <r>39</r>
+            <g>174</g>
+            <b>96</b>
+        </dark>
+    </myColor>
+
+    <myColor name="navy">
+        <bright>
+            <r>52</r>
+            <g>73</g>
+            <b>94</b>
+        </bright>
+        <dark>
+            <r>44</r>
+            <g>62</g>
+            <b>80</b>
+        </dark>
+    </myColor>
+
+    <myColor name="silver">
+        <bright>
+            <r>236</r>
+            <g>240</g>
+            <b>241</b>
+        </bright>
+        <dark>
+            <r>189</r>
+            <g>195</g>
+            <b>199</b>
+        </dark>
+    </myColor>
+
+    <myColor name="violet">
+        <bright>
+            <r>155</r>
+            <g>89</g>
+            <b>182</b>
+        </bright>
+        <dark>
+            <r>142</r>
+            <g>68</g>
+            <b>173</b>
+        </dark>
+    </myColor>
+
+    <myColor name="gray">
+        <bright>
+            <r>149</r>
+            <g>165</g>
+            <b>166</b>
+        </bright>
+        <dark>
+            <r>127</r>
+            <g>140</g>
+            <b>141</b>
+        </dark>
+    </myColor>
+
+</kolory>

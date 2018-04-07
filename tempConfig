@@ -1,0 +1,13 @@
+#Tue Jan 16 12:26:16 CET 2018
+width=700
+city=arsaw
+user=pz-mlynek
+boardwidth=490
+boardheight=490
+fontColor=\#ECC576
+webApi=http\://api.apixu.com/v1/current.json?key\=bd92e16eb8084b08a4b174324172312&q\=
+dir.colorsXML=src/main/resources/colors.xml
+database=jdbc\:sqlserver\://pz-mlynek.database.windows.net\:1433;database\=mlynek-bd
+password=pzHaslo1
+dir.logger=src/main/resources/myApp-log/log%g.log
+height=500
